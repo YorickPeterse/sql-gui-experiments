@@ -1,0 +1,16 @@
+{
+    "name": "sql-gui",
+    "description": "A simple GUI for running SQL queries.",
+    "license": "MIT License",
+    "authors": ["Yorick Peterse"],
+    "targetType": "executable",
+    "dependencies": {
+        "mysql-d": ">=0.2.0",
+        "gtk-d:gtkd": ">=2.3.3",
+        "gtk-d:sv": ">=2.3.3"
+    },
+    "targetPath": "build",
+    "importPaths": [
+        "/home/yorickpeterse/.dub/packages/gtk-d-2.3.3/srcsv"
+    ]
+}
