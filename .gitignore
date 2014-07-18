@@ -1,5 +1,7 @@
 *.*~
 .dub
-build/*
+
+d/sql-gui
+Gemfile.lock
 
 !.gitkeep

@@ -9,7 +9,6 @@
         "gtk-d:gtkd": ">=2.3.3",
         "gtk-d:sv": ">=2.3.3"
     },
-    "targetPath": "build",
     "importPaths": [
         "/home/yorickpeterse/.dub/packages/gtk-d-2.3.3/srcsv"
     ]
