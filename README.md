@@ -15,6 +15,15 @@ PostgreSQL unless stated otherwise.
   didn't have PostgreSQL set up.
 * Ruby
 
+## Scrapped Languages
+
+* Go: I tried two different GTK bindings (<https://github.com/mattn/go-gtk> and
+  <https://github.com/conformal/gotk3>) but neither work with Go 1.3 at the time
+  of writing. The error handling and the utterly broken build/dependency
+  management system pissed me off so much that I decided to not write a Go
+  implementation myself. At least I now know for sure that all the Go hipsters
+  really have no idea what they're doing.
+
 ## License
 
 All source code in this repository is licensed under the MIT license unless
