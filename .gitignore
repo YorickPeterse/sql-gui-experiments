@@ -1,5 +1,7 @@
 *.*~
 .dub
+*.pyo
+*.pyc
 
 d/sql-gui
 Gemfile.lock

@@ -14,6 +14,7 @@ PostgreSQL unless stated otherwise.
 * D: only supports MySQL at the moment as I originally wrote it on a laptop that
   didn't have PostgreSQL set up.
 * Ruby
+* Python 2.7
 
 ## Scrapped Languages
 
